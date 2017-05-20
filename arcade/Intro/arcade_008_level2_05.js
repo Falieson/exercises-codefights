@@ -1,4 +1,4 @@
-/* matricElementsSum | CODEFIGHTS ARCADE Level 2
+/* matricElementsSum | CODEFIGHTS ARCADE | Level 2
 
   RESULTS: Passed first try, but the optimum and 
     preferred answers are way better
